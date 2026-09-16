@@ -1,0 +1,16 @@
+{
+  "output_name": "rahmat-hafez-restorer-tutorial",
+  "brand": "reseller",
+  "character_dir": "brands/reseller/characters/rahmat",
+  "product_image": "brands/reseller/product-images/hafez-restorer.webp",
+  "product_name": "HAFEZ Restorer — Shine & Protect",
+  "mode": "tutorial",
+  "setting": "Home carport in daylight, dull motorbike on its stand, cleaning rags nearby",
+  "scene": "Rahmat sprays HAFEZ Restorer onto a faded body panel and wipes it into a deep glossy shine while walking the viewer through each step",
+  "hero": "Tinggal semprot, praktis tanpa alat poles — Crystal Gloss, kilap basah yang dalam",
+  "aspect_ratio": "9:16",
+  "duration": 15,
+  "resolution": "720p",
+  "video_model": "seedance-2-fast",
+  "video_prompt": "Rahmat sprays HAFEZ Restorer onto a faded motorbike body panel and wipes it into a deep glossy shine while walking the viewer through each step. He speaks casually and warmly to camera in Indonesian (Bahasa Indonesia), like a real UGC creator giving a quick tutorial, naturally mentioning that tinggal semprot, praktis tanpa alat poles — Crystal Gloss, kilap basah yang dalam. Handheld selfie feel, authentic ambient audio, natural lip-sync. Keep the product clearly visible and the subject's face and identity consistent throughout the shot."
+}

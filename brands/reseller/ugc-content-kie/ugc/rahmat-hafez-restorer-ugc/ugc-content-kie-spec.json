@@ -1,0 +1,17 @@
+{
+  "output_name": "rahmat-hafez-restorer-ugc",
+  "brand": "reseller",
+  "character_dir": "brands/reseller/characters/rahmat",
+  "product_image": "brands/reseller/product-images/hafez-restorer.webp",
+  "product_name": "HAFEZ Restorer — Shine & Protect (400ml body restorer spray)",
+  "mode": "ugc",
+  "setting": "Residential driveway beside a motorbike, sunny weekend morning",
+  "scene": "Rahmat holds up the HAFEZ Restorer can, shakes it, then sprays and wipes a body panel so it turns glossy and like-new, grinning at the camera",
+  "hero": "Kinclong seperti baru — efek hydrophobic, air langsung mengalir",
+  "aspect_ratio": "9:16",
+  "duration": 8,
+  "resolution": "720p",
+  "veo_model": "veo3_fast",
+  "still_prompt": "Photorealistic vertical UGC-style photo. The exact same man from the FIRST reference image (preserve his facial identity, warm tan skin tone, dark wavy hair and light stubble precisely) is holding and showing to camera the aerosol spray can product from the SECOND reference image — a HAFEZ Restorer 'Shine & Protect' 400ml black-and-red spray can. Casual authentic phone-camera selfie energy, he crouches next to his motorbike on a residential driveway and holds the can up toward the camera. Natural believable daylight, candid handheld framing.\n\nCharacter reference: Indonesian man, 29, lean build, oval face, thick natural brows, light patchy stubble, dark wavy medium-length hair.",
+  "video_prompt": "Rahmat holds up the HAFEZ Restorer spray can toward the camera, gives it a shake, then sprays and wipes a section of his motorbike body panel so it turns glossy and like-new. He speaks casually and warmly to camera in Indonesian (Bahasa Indonesia), like a real male UGC creator sharing a genuine recommendation, naturally mentioning that the spray makes the body kinclong seperti baru dengan efek hydrophobic tahan air. Handheld selfie feel, authentic ambient street audio, natural lip-sync, male voice."
+}

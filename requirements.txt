@@ -1,0 +1,5 @@
+requests
+
+# /ugc-clone — watching a reference video
+yt-dlp          # download a reference from TikTok / IG / YouTube
+faster-whisper  # transcribe the reference's dialogue (CPU, int8)

@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# /ugc-clone reference-analysis cache — bulky, and rebuildable from the source
+# video with: python scripts/analyze-reference-video.py <source>
+Referensi/Video Referensi/_analysis/
+
+# Buyer's own reference videos and generated output stay local
+Referensi/Video Referensi/*.mp4
+Referensi/Video Referensi/*.mov
+Referensi/Video Referensi/*.webm

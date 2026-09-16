@@ -1,0 +1,17 @@
+{
+  "output_name": "rahmat-cfm-retro-cream-racing-ugc",
+  "brand": "cargloss-helmet",
+  "character_dir": "brands/cargloss-helmet/characters/rahmat",
+  "product_image": "brands/cargloss-helmet/product-images/cfm-retro-cream-racing.webp",
+  "product_name": "Cargloss CFM Retro Cream Racing — Retro Half-Face Helmet",
+  "mode": "ugc",
+  "setting": "Sunny Indonesian side street beside a parked motorbike, casual weekend",
+  "scene": "Rahmat lifts the cream CFM Retro helmet up next to his face, turns it to show the retro stripe, then pulls it on and grins into the camera",
+  "hero": "Batok ABS bersertifikat SNI — perlindungan nyata, bukan cuma gaya",
+  "aspect_ratio": "9:16",
+  "duration": 8,
+  "resolution": "1080p",
+  "veo_model": "veo3_fast",
+  "still_prompt": "Photorealistic vertical UGC-style photo. The exact same man from the FIRST reference image (preserve his facial identity, warm tan skin tone, dark wavy hair and light stubble precisely) is naturally wearing the retro open-face motorcycle helmet shown in the SECOND reference image — a Cargloss CFM Retro helmet with a cream shell, orange flat peak visor and retro racing stripe. Casual authentic phone-camera selfie energy, he looks toward camera, standing on a sunny Indonesian residential side street beside his parked motorbike. Natural believable daylight, candid handheld framing.\n\nCharacter reference: Indonesian man, 29, lean build, oval face, thick natural brows, straight nose, light patchy stubble, dark wavy medium-length hair.",
+  "video_prompt": "Rahmat lifts the cream Cargloss CFM Retro helmet up next to his face, turns it to show the retro stripe, then pulls it on and grins into the camera. He speaks casually and warmly to camera in Indonesian (Bahasa Indonesia), like a real male UGC creator sharing a genuine recommendation, naturally mentioning that the helmet has an SNI-certified ABS shell — perlindungan nyata, bukan cuma gaya. Handheld selfie feel, authentic ambient street audio, natural lip-sync, male voice."
+}
